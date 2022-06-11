@@ -14,7 +14,7 @@ ___
 * HTML
 * Git, GitHub
 * CSS/ASS
-* JavaScript Basic
+* JavaScript (Basic)
 * VS Code
 ___
 ## **Code Example:**
